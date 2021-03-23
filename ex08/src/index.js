@@ -1,7 +1,7 @@
 class Person {
   constructor(name, email, age) {
     this.name = name;
-    this.name = email;
+    this.email = email;
     this.age = age;
   }
 
