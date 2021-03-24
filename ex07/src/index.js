@@ -1,2 +1,2 @@
 const person = require("./nameFunctions.js");
-console.log(person.firstName("john") + " " + person.lastName("DOE"));
+console.log(person.firstName("John") + " " + person.lastName("Doe"));
