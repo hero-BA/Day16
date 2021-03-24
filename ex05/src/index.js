@@ -10,7 +10,7 @@ class Microsoft {
     this._name = newName;
   }
   occupation() {
-    return `${this.name} is a philanthropist!`;
+    return `${this._name} is a philanthropist!`;
   }
 }
 
